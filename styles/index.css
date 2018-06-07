@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+ #header {
+/*     display: flex; */
+/*     justify-content: space-between; */
+/*     margin: auto; */
+/*     max-width: 980px; */
+text-align:center;
+ }
+.articles {
+    background-color: #f2efe8;
+    margin: 10px auto;
+    padding: 10px;
+    max-width: 980px;;
+}
+button {
+    width: 200px;
+    height: 40px;
+    background-color: #c3d4d8
+}
+
+input {
+    width: 200px;
+    height: 40px;
+    text-align: center;
+}
+p {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+
+}
+a {
+color: black;
+    text-decoration: none;
+}
+
+
